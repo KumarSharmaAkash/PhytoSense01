@@ -497,3 +497,8 @@
 .detection {
   margin-top: 60px;
 }
+
+.detection-iframe{
+  width: 1220px;
+  height: 500px;
+}
