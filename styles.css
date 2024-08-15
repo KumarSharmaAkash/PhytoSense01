@@ -307,6 +307,7 @@
     }
     .home {
       grid-template-columns: 1fr;
+      margin-top:30px;
     }
     .about {
       grid-template-columns: 1fr;
